@@ -1,9 +1,6 @@
 # Виртуальное окружение Python (venv)
 
-##### Активация
-``` venv\Scripts\activate.bat ``` - для Windows;
-```source venv/bin/activate``` - для для Linux и MacOS.
-
+##### Активация 
 ```
 ~ % cd VenvPython3/
 ```
@@ -23,6 +20,7 @@
 ```
 ~ % pip install --upgrade pip
 ```
+
 ##### Деактивация
 ```
 ~ % deactivate
