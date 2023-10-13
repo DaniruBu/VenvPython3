@@ -20,6 +20,11 @@
 ```
 ~ % pip install --upgrade pip
 ```
+##### Requirements
+```
+~ % touch requirements.txt
+~ % pip freeze >> requirements.txt
+```
 
 ##### Деактивация
 ```
